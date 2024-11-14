@@ -1,6 +1,6 @@
 A link is provided where sets high-confidence synteny anchors for further processing and use in tools like MCScanX and i-ADHoRe can be download:\
 \
-http://k72.bioinf.uni-leipzig.de:8080/
+http://anchored.bioinf.uni-leipzig.de:8080/
 \
 \
 Contact:    karl.kaether@posteo.de\
